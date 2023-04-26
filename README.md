@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EnneLu
 - 👀 I'm interested in becoming a software engineer
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me luennemafra@gmail.com
+- 🌱 I’m currently learning everything 
+- 💞️ I’m looking to collaborate on money
+- 📫 How to reach me luennemafra15@gmail.com
 
 <!---
 EnneLu/EnneLu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
