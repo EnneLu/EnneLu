@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EnneLu
 - 👀 I'm interested in becoming a software engineer
 - 🌱 I’m currently learning everything 
-- 💞️ I’m looking to collaborate on money
+- 💞️ I’m looking for money
 - 📫 How to reach me luennemafra15@gmail.com
 
 <!---
